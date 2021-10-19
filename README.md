@@ -12,4 +12,6 @@
 ## 5주차
   <img width="150" height="300" src="./png/5주차-안드로이드프로그래밍 바뀌기전.jpg"></img>
   <img width="150" height="300" src="./png/5주차-안드로이드프로그래밍.jpg"></img>
-
+## 6주차
+  <img width="150" height="300" src="./png/6주차-안드로이드프로그래밍1.jpg"></img>
+  <img width="150" height="300" src="./png/6주차-안드로이드프로그래밍2.jpg"></img>
